@@ -1,2 +1,2 @@
-# admisison-managemen
-admission p
+# admisison-managemenT SYSTEM 
+PHP CODE
